@@ -14,7 +14,6 @@ public class Second {
 		System.out.println(obj.append(true));
 		System.out.println(obj.append(true));
 		System.out.println(obj.capacity());
-		StringBuilder obj2 = new StringBuilder();
-		
+		StringBuilder obj2 = new StringBuilder();	
 	}
 }

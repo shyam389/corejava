@@ -14,7 +14,8 @@ System.out.println(s.concat("another"));
 System.out.println(s.compareTo("abc"));
 System.out.println(s.compareToIgnoreCase(s));
 System.out.println(s.endsWith("g"));
-System.out.println(s.);
+System.out.println(s.indent(4));
+//System.out.println(s.);
 	}
 
 }
